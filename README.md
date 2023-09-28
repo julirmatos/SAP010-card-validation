@@ -36,6 +36,9 @@ os quatro últimos.
 
 (https://sap010-card-validation.julirmatos.repl.co/index.html)
 
+## 🛠 Ferramentas Utilizadas
+
+[![Tecnologias e Ferramentas utilizadas:](https://skillicons.dev/icons?i=html,css,js,vscode,github,git)](https://skillicons.dev)
 
 
 
